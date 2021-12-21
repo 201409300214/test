@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.widget.TextView;
 //新增修改内容-------
+//adding for test1-D
 public class MainActivity extends Activity {
 TextView tv;
 TextView tv2;
