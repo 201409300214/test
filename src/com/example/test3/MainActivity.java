@@ -9,6 +9,7 @@ import android.widget.TextView;
 //adding for test2-C
 //adding for test3-d
 //adding for featureB testing001
+//adding for featureB testing002
 public class MainActivity extends Activity {
 TextView tv;
 TextView tv2;
