@@ -1,0 +1,24 @@
+From a17e3858ee32d64dfe5484d918e74462ac747b38 Mon Sep 17 00:00:00 2001
+From: 201409300214 <923422883@qq.com>
+Date: Tue, 21 Dec 2021 17:24:43 +0800
+Subject: [PATCH 1/2] add limit to log function
+
+---
+ src/com/example/test3/MainActivity.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/com/example/test3/MainActivity.java b/src/com/example/test3/MainActivity.java
+index 650e108..f8ba5a3 100644
+--- a/src/com/example/test3/MainActivity.java
++++ b/src/com/example/test3/MainActivity.java
+@@ -8,6 +8,7 @@ import android.widget.TextView;
+ //adding for test1-D
+ //adding for test2-C
+ //adding for test3-d
++//adding for featureA test001
+ public class MainActivity extends Activity {
+ TextView tv;
+ TextView tv2;
+-- 
+2.24.1.windows.2
+

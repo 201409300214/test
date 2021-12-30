@@ -1,0 +1,24 @@
+From ffbbc2150c9d19392936368d6e62ff1d6435a8fe Mon Sep 17 00:00:00 2001
+From: 201409300214 <923422883@qq.com>
+Date: Wed, 22 Dec 2021 09:52:53 +0800
+Subject: [PATCH 2/2] small tewak
+
+---
+ src/com/example/test3/MainActivity.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/src/com/example/test3/MainActivity.java b/src/com/example/test3/MainActivity.java
+index f8ba5a3..0675817 100644
+--- a/src/com/example/test3/MainActivity.java
++++ b/src/com/example/test3/MainActivity.java
+@@ -9,6 +9,7 @@ import android.widget.TextView;
+ //adding for test2-C
+ //adding for test3-d
+ //adding for featureA test001
++//adding for featureA jessica test
+ public class MainActivity extends Activity {
+ TextView tv;
+ TextView tv2;
+-- 
+2.24.1.windows.2
+
