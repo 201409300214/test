@@ -8,7 +8,14 @@ import android.widget.TextView;
 //adding for test1-D
 //adding for test2-C
 //adding for test3-d
+//adding for test 20211230
+//
+<<<<<<< HEAD
 //adding for idea test
+=======
+//adding for featureA test001
+//adding for featureA jessica test
+>>>>>>> origin/featureA
 public class MainActivity extends Activity {
 TextView tv;
 TextView tv2;
