@@ -9,6 +9,10 @@ import android.widget.TextView;
 //adding for test2-C
 //adding for test3-d
 //adding for test 20211230
+//adding for featureB testing001
+//adding for featureB testing002
+//test001
+<<<<<<< HEAD<<<<<<< .mine//adding for test 20211230
 //test001
 <<<<<<< HEAD
 //adding for idea test
@@ -16,7 +20,9 @@ import android.widget.TextView;
 //adding for featureA test001
 //adding for featureA jessica test
 >>>>>>> origin/featureA
-public class MainActivity extends Activity {
+=======//adding for featureB testing001
+//adding for featureB testing002
+>>>>>>> .theirspublic class MainActivity extends Activity {
 TextView tv;
 TextView tv2;
     @Override
